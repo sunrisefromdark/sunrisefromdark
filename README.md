@@ -1,129 +1,83 @@
-<div align="center">
+<h1 align="center">sunrisefromdark</h1>
 
-# Hi, I'm `sunrisefromdark`
+<p align="center">
+  AI Agent Systems | Agent Harnesses | Search & Recommendation
+</p>
 
-AI Agent ecosystem builder | TypeScript full-stack developer | Data workflow tinkerer
+<p align="center">
+  <a href="https://github.com/sunrisefromdark/agentRadar">AgentRadar</a> /
+  <a href="https://app.agentradar.top/">Live Demo</a> /
+  <a href="https://github.com/sunrisefromdark">GitHub</a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/sunrisefromdark?style=flat-square&logo=github&label=Followers)](https://github.com/sunrisefromdark)
-[![AgentRadar stars](https://img.shields.io/github/stars/sunrisefromdark/agentRadar?style=flat-square&logo=github&label=AgentRadar)](https://github.com/sunrisefromdark/agentRadar)
-[![Portfolio](https://img.shields.io/badge/Live%20Project-app.agentradar.top-0f766e?style=flat-square)](https://app.agentradar.top/)
-[![Open to work](https://img.shields.io/badge/Open%20to-AI%20%2F%20Backend%20%2F%20Full--stack-2563eb?style=flat-square)](#contact)
+---
 
-</div>
+I build agent-oriented systems where **LLM behavior needs structure, evidence, and feedback loops**.
 
-## About
+My work sits at the intersection of AI agents, evaluation harnesses, search / recommendation, and product-grade data workflows. I care about turning loose signals into systems that can be run, inspected, compared, and improved.
 
-I build tools that turn messy public signals into structured, verifiable, and reusable products.
+## Focus
 
-My current focus is **AI Agent infrastructure and ecosystem intelligence**: collecting signals, scoring projects, generating research artifacts, and building web consoles that help people understand what is actually moving in the market.
+| Area | What I Care About |
+| --- | --- |
+| AI Agent Systems | Tool use, workflow design, memory, agent coordination, structured outputs |
+| Agent Harnesses | Evaluation loops, replayable runs, quality gates, regression fixtures, observability |
+| Search & Recommendation | Candidate generation, ranking, scoring, freshness, personalization signals |
+| Data Products | Signal collection, normalization, evidence chains, dashboards, reusable artifacts |
 
-- Building [AgentRadar](https://github.com/sunrisefromdark/agentRadar), an open-source trend radar and research workbench for the AI Agent ecosystem
-- Interested in Agent workflows, data pipelines, knowledge systems, observability, and practical productization
-- Comfortable moving between backend logic, frontend console UX, CLI workflows, and research-oriented automation
-- Previously explored Java-side tooling and data integration ecosystems through TubeMQ / Apache InLong-related work
+## Currently Building
 
-## Tech Stack
+### [AgentRadar](https://github.com/sunrisefromdark/agentRadar)
 
-<div align="center">
+An open-source trend radar and research workbench for the AI Agent ecosystem.
 
-![Skills](https://skillicons.dev/icons?i=ts,nodejs,react,postgres,java,python,git,github,linux&theme=light)
+AgentRadar collects public signals, normalizes them, scores projects, generates daily and weekly research artifacts, builds knowledge cards, and exposes the results through a local / hosted web console.
 
-</div>
+- Live site: [app.agentradar.top](https://app.agentradar.top/)
+- Repository: [sunrisefromdark/agentRadar](https://github.com/sunrisefromdark/agentRadar)
+- Core stack: TypeScript, Node.js, React, PostgreSQL, Kysely, Vitest
 
-**Main tools I use**
+What this project shows:
 
-`TypeScript` | `Node.js` | `React` | `PostgreSQL` | `Kysely` | `Vitest` | `OpenAI SDK` | `Anthropic SDK` | `pnpm` | `GitHub Actions`
+- Agent-style workflows for daily reports, weekly synthesis, observer pools, and knowledge-card generation
+- Search and ranking logic for surfacing meaningful AI Agent projects from noisy public signals
+- Harness-like engineering around verification, replay fixtures, typed schemas, and quality gates
+- Product thinking across OSS documentation, hosted usage, local console UX, and data boundaries
 
-## Featured Project
+## Technical Range
 
-<table>
-  <tr>
-    <td width="55%">
-      <h3><a href="https://github.com/sunrisefromdark/agentRadar">AgentRadar</a></h3>
-      <p>
-        An open-source trend radar and research workbench for the AI Agent ecosystem.
-        It collects public signals, normalizes data, scores projects, generates daily and weekly reports,
-        builds knowledge cards, and exposes the outputs through a local / hosted web console.
-      </p>
-      <p>
-        <a href="https://app.agentradar.top/">Live app</a> |
-        <a href="https://github.com/sunrisefromdark/agentRadar">Repository</a>
-      </p>
-    </td>
-    <td width="45%">
-      <p><strong>Stack</strong></p>
-      <p>TypeScript, React, Node.js, PostgreSQL, Kysely, Vitest</p>
-      <p><strong>Highlights</strong></p>
-      <p>Daily radar, weekly synthesis, observer pool, knowledge cards, hosted app</p>
-      <p>
-        <img src="https://img.shields.io/github/stars/sunrisefromdark/agentRadar?style=flat-square&logo=github" alt="AgentRadar stars" />
-        <img src="https://img.shields.io/github/forks/sunrisefromdark/agentRadar?style=flat-square&logo=github" alt="AgentRadar forks" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-**What it demonstrates**
-
-- End-to-end data workflow design: collection, normalization, scoring, reporting, verification, and reuse
-- AI-assisted research artifacts: daily reports, weekly trend synthesis, observer pools, and knowledge cards
-- Product thinking: hosted app, local console, readable README, and clear OSS / hosted boundaries
-- Engineering discipline: TypeScript codebase, test coverage, typed schemas, CLI commands, and production build checks
-
-## What I Like Building
-
-```mermaid
-mindmap
-  root((Builder Focus))
-    AI Agents
-      Workflow orchestration
-      Research automation
-      Evaluation and observability
-    Data Products
-      Signal collection
-      Scoring systems
-      Knowledge cards
-    Full-stack Tools
-      TypeScript services
-      React consoles
-      CLI-first workflows
-    Open Source
-      Clear documentation
-      Reusable artifacts
-      Practical demos
+```text
+Languages       TypeScript, Java, Python, SQL
+Backend         Node.js, PostgreSQL, Kysely, CLI workflows
+Frontend        React, HTML/CSS, data-heavy console UI
+AI / LLM        Agent workflows, structured generation, LLM provider integration
+Search / Rec    Ranking signals, scoring systems, freshness, candidate pipelines
+Quality         Vitest, replay fixtures, schema checks, production build validation
 ```
 
-## Public Work Snapshot
+## How I Think
 
-<div align="center">
+- Build systems that make AI behavior observable, not magical.
+- Prefer evidence chains over vague recommendations.
+- Treat ranking, retrieval, and evaluation as product features, not backend details.
+- Design tools that can be rerun, compared, and debugged.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-AgentRadar-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-Web%20Console-149eca?style=flat-square&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Data%20Workflows-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Data%20Tooling-b07219?style=flat-square&logo=openjdk&logoColor=white)
+## Open To
 
-</div>
+Roles or collaborations around:
 
-## For Recruiters
-
-If you are looking for someone who can connect **AI product sense**, **data workflow engineering**, and **full-stack implementation**, my best sample is [AgentRadar](https://github.com/sunrisefromdark/agentRadar).
-
-I am especially interested in roles around:
-
-- AI Agent products / developer tools
-- Data platforms and research automation
-- Backend / full-stack engineering with TypeScript
-- Open-source or product-led engineering teams
+- AI Agent platforms
+- Agent evaluation / harness infrastructure
+- Search, recommendation, ranking, and personalization
+- Data products for developer, research, or intelligence workflows
 
 ## Contact
 
 - GitHub: [@sunrisefromdark](https://github.com/sunrisefromdark)
 - Live project: [app.agentradar.top](https://app.agentradar.top/)
 
-<div align="center">
+---
 
-Thanks for visiting. If AgentRadar looks useful, a star would make my day.
-
-</div>
-
-<!-- Profile README refresh marker: 2026-07-04 -->
+<p align="center">
+  Building useful agent systems, one feedback loop at a time.
+</p>
