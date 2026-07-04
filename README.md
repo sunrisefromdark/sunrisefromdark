@@ -125,3 +125,5 @@ I am especially interested in roles around:
 Thanks for visiting. If AgentRadar looks useful, a star would make my day.
 
 </div>
+
+<!-- Profile README refresh marker: 2026-07-04 -->
