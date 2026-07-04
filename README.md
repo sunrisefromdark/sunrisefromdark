@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sunrisefromdark.github.io/">
-    <img src="https://raw.githubusercontent.com/sunrisefromdark/sunrisefromdark.github.io/main/assets/hero-card.svg" alt="sunrisefromdark portfolio banner" width="100%" />
+    <img src="https://sunrisefromdark.github.io/assets/hero-card.svg" alt="sunrisefromdark portfolio banner" width="100%" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sunrisefromdark/agentRadar">
-        <img src="https://raw.githubusercontent.com/sunrisefromdark/sunrisefromdark.github.io/main/assets/images/agent-radar-cover.png" alt="AgentRadar preview" width="100%" />
+        <img src="https://sunrisefromdark.github.io/assets/images/agent-radar-cover.png" alt="AgentRadar preview" width="100%" />
       </a>
       <h3>AgentRadar</h3>
       <p>
@@ -50,7 +50,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sunrisefromdark?tab=repositories">
-        <img src="https://raw.githubusercontent.com/sunrisefromdark/sunrisefromdark.github.io/main/assets/images/text2sql-cover.png" alt="Text2SQL preview" width="100%" />
+        <img src="https://sunrisefromdark.github.io/assets/images/text2sql-cover.png" alt="Text2SQL preview" width="100%" />
       </a>
       <h3>Text2SQL</h3>
       <p>
