@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sunrisefromdark.github.io/">
-    <img src="https://sunrisefromdark.github.io/assets/hero-card.svg" alt="sunrisefromdark portfolio banner" width="100%" />
+    <img src="https://sunrisefromdark.github.io/assets/hero-card.png" alt="sunrisefromdark portfolio banner" width="100%" />
   </a>
 </p>
 
