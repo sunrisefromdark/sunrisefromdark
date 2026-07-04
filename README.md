@@ -49,7 +49,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/sunrisefromdark?tab=repositories">
+      <a href="https://github.com/sunrisefromdark/text2sql">
         <img src="https://sunrisefromdark.github.io/assets/images/text2sql-cover.png" alt="Text2SQL preview" width="100%" />
       </a>
       <h3>Text2SQL</h3>
@@ -63,7 +63,31 @@
         <code>Validation</code>
       </p>
       <p>
-        <a href="https://github.com/sunrisefromdark?tab=repositories">项目入口</a>
+        <a href="https://github.com/sunrisefromdark/text2sql">私有仓库</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h2 align="center">开源贡献</h2>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Apache InLong</h3>
+      <p>
+        2023 年参与 Apache InLong 相关贡献，围绕数据集成框架的 Manager / Sort 等模块做代码修复与安全加固。
+      </p>
+      <p>
+        <code>Apache InLong</code>
+        <code>Data Integration</code>
+        <code>Java</code>
+        <code>Security Hardening</code>
+      </p>
+      <p>
+        <a href="https://github.com/apache/inlong/commits?author=sunrisefromdark">查看贡献记录</a>
       </p>
     </td>
   </tr>
