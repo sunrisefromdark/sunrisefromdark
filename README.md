@@ -26,7 +26,7 @@
 
 <h2 align="center">个人项目</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sunrisefromdark/agentRadar">
@@ -73,7 +73,7 @@
 
 <h2 align="center">开源贡献</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>AgentRadar</h3>
@@ -114,7 +114,7 @@
 
 <h2 align="center">技术栈</h2>
 
-<table>
+<table width="100%">
   <tr>
     <td width="25%" valign="top">
       <h3>Agent Systems</h3>
