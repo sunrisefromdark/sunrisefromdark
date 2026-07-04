@@ -75,7 +75,24 @@
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
+      <h3>AgentRadar</h3>
+      <p>
+        开源 AI Agent 生态趋势雷达，围绕公开信号采集、项目评分、日报周报和知识卡沉淀持续迭代。
+      </p>
+      <p>
+        <code>Open Source</code>
+        <code>AI Agent</code>
+        <code>Ranking</code>
+        <code>TypeScript</code>
+      </p>
+      <p>
+        <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
+        ·
+        <a href="https://app.agentradar.top/">在线演示</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>Apache InLong</h3>
       <p>
         2023 年参与 Apache InLong 相关贡献，围绕数据集成框架的 Manager / Sort 等模块做代码修复与安全加固。
