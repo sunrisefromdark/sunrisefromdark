@@ -102,6 +102,8 @@
         <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
         ·
         <a href="https://app.agentradar.top/">在线演示</a>
+        ·
+        <a href="https://github.com/sunrisefromdark/agentRadar/commits?author=sunrisefromdark">查看贡献记录</a>
       </p>
     </td>
     <td width="50%" valign="top">
