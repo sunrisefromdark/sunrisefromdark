@@ -30,7 +30,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sunrisefromdark/agentRadar">
-        <img src="https://sunrisefromdark.github.io/assets/images/agent-radar-cover.png" alt="AgentRadar preview" width="100%" />
+        <img src="https://sunrisefromdark.github.io/assets/images/agent-radar-cover.jpg" alt="AgentRadar preview" width="100%" loading="eager" decoding="async" />
       </a>
       <h3>AgentRadar</h3>
       <p><strong>开源项目</strong> · AI Agent</p>
@@ -56,7 +56,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sunrisefromdark/text2sql">
-        <img src="https://sunrisefromdark.github.io/assets/images/text2sql-cover.png" alt="Text2SQL preview" width="100%" />
+        <img src="https://sunrisefromdark.github.io/assets/images/text2sql-cover.jpg" alt="Text2SQL preview" width="100%" loading="eager" decoding="async" />
       </a>
       <h3>Text2SQL</h3>
       <p><strong>私有项目</strong> · Data Intelligence</p>
@@ -90,7 +90,7 @@
     <td width="50%" valign="top">
       <h3>AgentRadar</h3>
       <p>
-        开源部分覆盖 AI Agent 生态信号采集、项目评分与知识卡沉淀；周趋势判断能力正在私有仓库重构中。
+        开源部分沉淀 AgentRadar 的公开信号底座：持续采集 AI Agent 项目与生态动态，做项目评分、排序理由和知识卡归档，为周趋势判断提供候选池与证据链。
       </p>
       <p>
         <code>Open Source</code>
