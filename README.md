@@ -33,6 +33,7 @@
         <img src="https://sunrisefromdark.github.io/assets/images/agent-radar-cover.png" alt="AgentRadar preview" width="100%" />
       </a>
       <h3>AgentRadar</h3>
+      <p><strong>开源项目</strong> · AI Agent</p>
       <p>
         面向 AI Agent 生态的趋势雷达，负责公开信号采集、项目评分、日报周报和知识卡沉淀。
       </p>
@@ -53,6 +54,7 @@
         <img src="https://sunrisefromdark.github.io/assets/images/text2sql-cover.png" alt="Text2SQL preview" width="100%" />
       </a>
       <h3>Text2SQL</h3>
+      <p><strong>私有项目</strong> · Data Intelligence</p>
       <p>
         自然语言到 SQL 的数据智能项目，关注 schema linking、SQL 生成、执行校验和结果验证。
       </p>
