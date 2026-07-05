@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://sunrisefromdark.github.io/">
-    <img src="https://sunrisefromdark.github.io/assets/hero-card.png" alt="sunrisefromdark portfolio banner" width="100%" />
+    <img src="https://sunrisefromdark.github.io/assets/hero-card.png" alt="sunrisefromdark portfolio banner" width="880" />
   </a>
 </p>
 
-<h2 align="center">AI Agent · Agent Harness · Text2SQL · Search & Recommendation</h2>
+<h2 align="center">AI Agent · Agent Harness · Text2SQL · Search / Recommendation</h2>
 
 <p align="center">
-  我关注 AI Agent 系统、可验证的 agent harness、Text2SQL，以及 AgentRadar 正在重构的周趋势判断。
+  我关注可验证的 AI Agent 系统，正在把 AgentRadar 重构为“信号源 -> 评分 / 排序 -> 证据链 -> 周趋势判断 -> 日报 / 月报 / 知识卡输出”的趋势分析系统。
 </p>
 
 <p align="center">
@@ -22,9 +22,7 @@
   </a>
 </p>
 
-<br />
-
-<h2 align="center">个人项目</h2>
+<h2 align="center">重点项目</h2>
 
 <table width="100%">
   <tr>
@@ -33,70 +31,13 @@
         <img src="https://sunrisefromdark.github.io/assets/images/agent-radar-cover.jpg" alt="AgentRadar preview" width="100%" loading="eager" decoding="async" />
       </a>
       <h3>AgentRadar</h3>
-      <p><strong>开源项目</strong> · AI Agent</p>
+      <p><strong>开源项目</strong> · AI Agent 生态信号雷达</p>
+      <p>围绕 AI Agent 生态做信号采集、项目评分、排序理由、证据链与周趋势判断。</p>
       <p>
-        核心亮点是私有仓库重构中的周趋势判断：把公开 AI Agent 信号转成有证据、有排序、有解释的周级趋势结论。
-      </p>
-      <ul>
-        <li>周趋势判断：识别项目、产品和生态信号的阶段性变化</li>
-        <li>证据链沉淀：保留候选来源、评分理由和可复核依据</li>
-        <li>输出物：日报 / 周报、项目卡片、趋势复盘</li>
-      </ul>
-      <p>
-        <code>AI Agent</code>
+        <code>Signal</code>
+        <code>Ranking</code>
+        <code>Evidence Chain</code>
         <code>Weekly Trend</code>
-        <code>Ranking</code>
-        <code>TypeScript</code>
-      </p>
-      <p>
-        <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
-        ·
-        <a href="https://app.agentradar.top/">在线演示</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/sunrisefromdark/text2sql">
-        <img src="https://sunrisefromdark.github.io/assets/images/text2sql-cover.jpg" alt="Text2SQL preview" width="100%" loading="eager" decoding="async" />
-      </a>
-      <h3>Text2SQL</h3>
-      <p><strong>私有项目</strong> · Data Intelligence</p>
-      <p>
-        自然语言到 SQL 的数据智能项目，关注 schema linking、SQL 生成、执行校验和结果验证。
-      </p>
-      <ul>
-        <li>Schema linking：把自然语言问题对齐到真实表结构</li>
-        <li>SQL 生成：面向业务查询生成可执行语句</li>
-        <li>结果验证：通过执行反馈检查 SQL 与答案质量</li>
-      </ul>
-      <p>
-        <code>LLM</code>
-        <code>SQL</code>
-        <code>Schema Linking</code>
-        <code>Validation</code>
-      </p>
-      <p>
-        <a href="https://github.com/sunrisefromdark/text2sql">私有仓库</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h2 align="center">开源贡献</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AgentRadar</h3>
-      <p>
-        开源部分沉淀 AgentRadar 的公开信号底座：持续采集 AI Agent 项目与生态动态，做项目评分、排序理由和知识卡归档，为周趋势判断提供候选池与证据链。
-      </p>
-      <p>
-        <code>Open Source</code>
-        <code>AI Agent</code>
-        <code>Ranking</code>
-        <code>TypeScript</code>
       </p>
       <p>
         <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
@@ -107,16 +48,43 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/sunrisefromdark/text2sql">
+        <img src="https://sunrisefromdark.github.io/assets/images/text2sql-cover.jpg" alt="Text2SQL preview" width="100%" loading="eager" decoding="async" />
+      </a>
+      <h3>Text2SQL</h3>
+      <p><strong>私有项目</strong> · Data Intelligence</p>
+      <p>自然语言到 SQL 的数据智能项目，覆盖 schema linking、SQL 生成、执行校验、结果验证、评测集和错误归因。</p>
+      <p>
+        <code>Schema Linking</code>
+        <code>SQL Generation</code>
+        <code>Validation</code>
+        <code>Error Attribution</code>
+      </p>
+      <p>
+        <a href="https://github.com/sunrisefromdark/text2sql">私有仓库</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">开源贡献</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AgentRadar</h3>
+      <p>开源部分沉淀公开信号采集、项目评分、排序理由和知识卡归档，为私有仓库里的周趋势判断提供候选池与证据链。</p>
+      <p>
+        <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
+        ·
+        <a href="https://app.agentradar.top/">在线演示</a>
+        ·
+        <a href="https://github.com/sunrisefromdark/agentRadar/commits?author=sunrisefromdark">查看贡献记录</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>Apache InLong</h3>
-      <p>
-        2023 年参与 Apache InLong 相关贡献，围绕数据集成框架的 Manager / Sort 等模块做代码修复与安全加固。
-      </p>
-      <p>
-        <code>Apache InLong</code>
-        <code>Data Integration</code>
-        <code>Java</code>
-        <code>Security Hardening</code>
-      </p>
+      <p>2023 年参与 Apache InLong 相关贡献，围绕数据集成框架的 Manager / Sort 模块做代码修复、安全加固和工程质量改进。</p>
       <p>
         <a href="https://github.com/apache/inlong/commits?author=sunrisefromdark">查看贡献记录</a>
       </p>
@@ -124,31 +92,21 @@
   </tr>
 </table>
 
-<br />
-
 <h2 align="center">技术栈</h2>
 
-<table width="100%">
-  <tr>
-    <td width="25%" valign="top">
-      <h3>Agent Systems</h3>
-      <p><code>Tool Use</code> <code>Memory</code> <code>Structured Output</code></p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>Harness</h3>
-      <p><code>Replay</code> <code>Fixtures</code> <code>Quality Gates</code></p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>Search / Rec</h3>
-      <p><code>Ranking</code> <code>Freshness</code> <code>Candidate Gen</code></p>
-    </td>
-    <td width="25%" valign="top">
-      <h3>Engineering</h3>
-      <p><code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Python</code></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <code>Agent Systems</code>
+  <code>Agent Harness</code>
+  <code>Replay / Fixtures</code>
+  <code>Quality Gates</code>
+  <code>Search / Rec</code>
+  <code>Ranking</code>
+  <code>TypeScript</code>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Python</code>
+</p>
 
 <p align="center">
-  <a href="https://sunrisefromdark.github.io/">查看完整个人主页</a>
+  <a href="https://sunrisefromdark.github.io/">查看完整个人主页与 AgentRadar 架构图</a>
 </p>
