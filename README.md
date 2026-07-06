@@ -32,12 +32,20 @@
       </a>
       <h3>AgentRadar</h3>
       <p><strong>开源项目</strong> · 行业级 Agent 趋势判断系统</p>
-      <p>不是普通资讯聚合或项目榜单，而是把多观察源、长尾新兴潜力项目、项目评分依据和周趋势裁决串成可审计证据链。系统会显式记录为什么一个项目值得看、为什么一个方向可能成为趋势、哪些证据还不足，以及工具失败时降级到了哪条路线。</p>
+      <p>面向 AI Agent 生态的行业级趋势判断系统，目标不是回答“哪个项目更火”，而是把项目、产品、论文、政策、资本、社区和新闻等多源信号归一成可追溯的行业证据事件，再沉淀项目画像、知识卡、排序理由、反证审计和周级行业主张。</p>
+      <ul>
+        <li>多观察源：覆盖大厂 / 产品线、研究所、实验室、知名开发者、工作室、社区、政策金融、新闻学术与开源项目，不只盯 GitHub 热榜。</li>
+        <li>新兴潜力发现：用 ecosystem observer 和长尾候选池捕捉尚未成为大众共识、但已经出现真实产品或社区信号的 Agent 项目。</li>
+        <li>评分依据：把帮助度、信息增量、证据强度、潜力信号、曝光饱和度和反证缺口写成可解释排序理由，而不是只给黑盒分数。</li>
+        <li>周趋势裁决：基于 Industry Claim Ledger、十轴证据矩阵和 weekly trend agent 区分已成立趋势、待观察趋势、项目热度簇与证据不足方向。</li>
+        <li>稳定兜底：每个证据轴记录 primary / secondary / fallback / last resort，工具失败时标注降级、弱观察或 unavailable，不把采集失败包装成“无趋势”。</li>
+      </ul>
       <p>
         <code>Multi-observer Sources</code>
-        <code>Emerging Projects</code>
-        <code>Scoring Rationale</code>
-        <code>Weekly Trend Judgment</code>
+        <code>Industry Claim Ledger</code>
+        <code>Emerging Project Discovery</code>
+        <code>Counter-evidence Audit</code>
+        <code>Weekly Industry Narrative</code>
         <code>Tool Fallback</code>
       </p>
       <p>
