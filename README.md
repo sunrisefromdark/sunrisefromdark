@@ -83,15 +83,15 @@
       <p>2023 年参与 Apache InLong 相关贡献，围绕数据集成框架的 Manager / Sort 模块做代码修复、安全加固和工程质量改进。</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="bottom">
+  <tr bgcolor="#ffffff">
+    <td width="50%" valign="bottom" bgcolor="#ffffff">
       <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
       ·
       <a href="https://app.agentradar.top/">在线演示</a>
       ·
       <a href="https://github.com/sunrisefromdark/agentRadar/commits?author=sunrisefromdark">查看贡献记录</a>
     </td>
-    <td width="50%" valign="bottom">
+    <td width="50%" valign="bottom" bgcolor="#ffffff">
       <a href="https://github.com/apache/inlong/commits?author=sunrisefromdark">查看贡献记录</a>
     </td>
   </tr>
