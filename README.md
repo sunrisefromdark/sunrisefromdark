@@ -7,7 +7,7 @@
 <h2 align="center">AI Agent · Agent Harness · Text2SQL · Search / Recommendation</h2>
 
 <p align="center">
-  我关注可验证的 AI Agent 系统。AgentRadar 正在从项目雷达升级为行业级 Agent 趋势判断系统：综合政策监管、资本金融、新闻叙事、论文会议、社区讨论、产品发布与开源生态等多轴证据，用 Industry Claim Ledger、反证审计和多 Agent 贡献账本判断 Agent 全行业走向。
+  我关注可验证的 AI Agent 系统。AgentRadar 正在从项目雷达升级为行业级 Agent 周趋势判断系统：从大厂、研究所、实验室、知名开发者、工作室、社区、政策金融、新闻学术和开源项目等多观察源抽取证据，用长尾 Observer 发现新兴潜力项目，用评分依据、Industry Claim Ledger、反证审计和工具降级兜底判断 Agent 全行业走向。
 </p>
 
 <p align="center">
@@ -32,12 +32,13 @@
       </a>
       <h3>AgentRadar</h3>
       <p><strong>开源项目</strong> · 行业级 Agent 趋势判断系统</p>
-      <p>不是普通资讯聚合或项目榜单，而是把政策、经济、新闻、学术、社区、产品和开源信号归一成行业证据，生成可审计的行业主张、证据矩阵、反证缺口和趋势等级。</p>
+      <p>不是普通资讯聚合或项目榜单，而是把多观察源、长尾新兴潜力项目、项目评分依据和周趋势裁决串成可审计证据链。系统会显式记录为什么一个项目值得看、为什么一个方向可能成为趋势、哪些证据还不足，以及工具失败时降级到了哪条路线。</p>
       <p>
-        <code>Industry Claim Ledger</code>
-        <code>10-axis Evidence</code>
-        <code>Counter Audit</code>
-        <code>Trend Decision</code>
+        <code>Multi-observer Sources</code>
+        <code>Emerging Projects</code>
+        <code>Scoring Rationale</code>
+        <code>Weekly Trend Judgment</code>
+        <code>Tool Fallback</code>
       </p>
       <p>
         <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
@@ -73,7 +74,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>AgentRadar</h3>
-      <p>开源部分沉淀 AI Agent 行业证据底座：公开信号采集、项目与产品线索、知识卡归档、排序理由和证据反链，为私有仓库中的行业级周趋势裁决提供候选池与可复核证据。</p>
+      <p>开源部分沉淀 AI Agent 行业证据底座：公开信号采集、Agent 生态长尾观察、新兴潜力项目、知识卡归档、项目评分与排序理由、证据反链，为私有仓库中的行业级周趋势裁决提供候选池与可复核证据。</p>
       <p>
         <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
         ·
