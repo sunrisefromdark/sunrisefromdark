@@ -77,22 +77,22 @@
     <td width="50%" valign="top">
       <h3>AgentRadar</h3>
       <p>开源部分沉淀 AI Agent 行业证据底座：公开信号采集、Agent 生态长尾观察、新兴潜力项目、知识卡归档、项目评分与排序理由、证据反链，为私有仓库中的行业级周趋势裁决提供候选池与可复核证据。</p>
+      <p>
+        <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
+        ·
+        <a href="https://app.agentradar.top/">在线演示</a>
+        ·
+        <a href="https://github.com/sunrisefromdark/agentRadar/commits?author=sunrisefromdark">查看贡献记录</a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>Apache InLong</h3>
       <p>2023 年参与 Apache InLong 相关贡献，围绕数据集成框架的 Manager / Sort 模块做代码修复、安全加固和工程质量改进。</p>
-    </td>
-  </tr>
-  <tr bgcolor="#ffffff">
-    <td width="50%" valign="bottom" bgcolor="#ffffff">
-      <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
-      ·
-      <a href="https://app.agentradar.top/">在线演示</a>
-      ·
-      <a href="https://github.com/sunrisefromdark/agentRadar/commits?author=sunrisefromdark">查看贡献记录</a>
-    </td>
-    <td width="50%" valign="bottom" bgcolor="#ffffff">
-      <a href="https://github.com/apache/inlong/commits?author=sunrisefromdark">查看贡献记录</a>
+      <br />
+      <br />
+      <p>
+        <a href="https://github.com/apache/inlong/commits?author=sunrisefromdark">查看贡献记录</a>
+      </p>
     </td>
   </tr>
 </table>
