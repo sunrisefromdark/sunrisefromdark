@@ -7,7 +7,7 @@
 <h2 align="center">AI Agent · Agent Harness · Text2SQL · Search / Recommendation</h2>
 
 <p align="center">
-  我关注可验证的 AI Agent 系统，正在把 AgentRadar 重构为“信号源 -> 评分 / 排序 -> 证据链 -> 周趋势判断 -> 日报 / 月报 / 知识卡输出”的趋势分析系统。
+  我关注可验证的 AI Agent 系统。AgentRadar 正在从项目雷达升级为行业级 Agent 趋势判断系统：综合政策监管、资本金融、新闻叙事、论文会议、社区讨论、产品发布与开源生态等多轴证据，用 Industry Claim Ledger、反证审计和多 Agent 贡献账本判断 Agent 全行业走向。
 </p>
 
 <p align="center">
@@ -31,13 +31,13 @@
         <img src="https://sunrisefromdark.github.io/assets/images/agent-radar-cover.jpg" alt="AgentRadar preview" width="100%" loading="eager" decoding="async" />
       </a>
       <h3>AgentRadar</h3>
-      <p><strong>开源项目</strong> · AI Agent 生态信号雷达</p>
-      <p>围绕 AI Agent 生态做信号采集、项目评分、排序理由、证据链与周趋势判断。</p>
+      <p><strong>开源项目</strong> · 行业级 Agent 趋势判断系统</p>
+      <p>不是普通资讯聚合或项目榜单，而是把政策、经济、新闻、学术、社区、产品和开源信号归一成行业证据，生成可审计的行业主张、证据矩阵、反证缺口和趋势等级。</p>
       <p>
-        <code>Signal</code>
-        <code>Ranking</code>
-        <code>Evidence Chain</code>
-        <code>Weekly Trend</code>
+        <code>Industry Claim Ledger</code>
+        <code>10-axis Evidence</code>
+        <code>Counter Audit</code>
+        <code>Trend Decision</code>
       </p>
       <p>
         <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
@@ -73,7 +73,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>AgentRadar</h3>
-      <p>开源部分沉淀公开信号采集、项目评分、排序理由和知识卡归档，为私有仓库里的周趋势判断提供候选池与证据链。</p>
+      <p>开源部分沉淀 AI Agent 行业证据底座：公开信号采集、项目与产品线索、知识卡归档、排序理由和证据反链，为私有仓库中的行业级周趋势裁决提供候选池与可复核证据。</p>
       <p>
         <a href="https://github.com/sunrisefromdark/agentRadar">代码仓库</a>
         ·
