@@ -54,12 +54,14 @@
       </a>
       <h3>Text2SQL</h3>
       <p><strong>私有项目</strong> · Data Intelligence</p>
-      <p>自然语言到 SQL 的数据智能项目，覆盖 schema linking、SQL 生成、执行校验、结果验证、评测集和错误归因。</p>
+      <p>面向生产约束设计的 Multi-Agent Text2SQL 系统，不是单次生成 SQL，而是以 <code>MainChainCoordinator</code> 为核心的确定性主链路：统一澄清追问、语义契约、SQL 生成、语法 / 语义修复、风险治理、受控执行和审计回放，降低复杂查询下的重复追问、终态漂移和“能执行但不对题”。</p>
+      <p>支持 5 档动态路由、<code>dry-run</code> / <code>snapshot-run</code> / <code>transactional-run</code>，并通过记忆版本化、3 层评测、103 条冻结样本与 334+ 自动化测试持续验证路由、追问、记忆和恢复策略。</p>
       <p>
-        <code>Schema Linking</code>
-        <code>SQL Generation</code>
-        <code>Validation</code>
-        <code>Error Attribution</code>
+        <code>Multi-Agent</code>
+        <code>MainChainCoordinator</code>
+        <code>Dynamic Routing</code>
+        <code>SQL Governance</code>
+        <code>Regression Eval</code>
       </p>
       <p>
         <a href="https://github.com/sunrisefromdark/text2sql">私有仓库</a>
